@@ -1,2 +1,1 @@
-# Machine-Learning-Algorithms
-机器学习算法
+数据科学手册
